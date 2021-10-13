@@ -1,0 +1,108 @@
+D:\Workspace\DoAnC#\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+D:\Workspace\DoAnC#\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+D:\Workspace\DoAnC#\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+D:\Workspace\DoAnC#\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+D:\Workspace\DoAnC#\GameCaro\GameCaro\obj\Debug\GameCaro.MenuGame.resources
+D:\Workspace\DoAnC#\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+D:\Workspace\DoAnC#\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+D:\Workspace\DoAnC#\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+D:\Workspace\DoAnC#\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+D:\Workspace\DoAnC#\GameCaro\GameCaro\obj\Debug\GameCaro.PlayerList.resources
+D:\Workspace\DoAnC#\GameCaro\GameCaro\obj\Debug\GameCaro.Caro.resources
+D:\Workspace\DoAnC#\GameCaro\GameCaro\obj\Debug\GameCaro.DetailSetting.resources
+D:\Workspace\C#\Game\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+D:\Workspace\C#\Game\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+D:\Workspace\C#\Game\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+D:\Workspace\C#\Game\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+D:\Workspace\C#\Game\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+D:\Workspace\C#\Game\GameCaro\GameCaro\obj\Debug\GameCaro.Caro.resources
+D:\Workspace\C#\Game\GameCaro\GameCaro\obj\Debug\GameCaro.DetailSetting.resources
+D:\Workspace\C#\Game\GameCaro\GameCaro\obj\Debug\GameCaro.MenuGame.resources
+D:\Workspace\C#\Game\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+D:\Workspace\C#\Game\GameCaro\GameCaro\obj\Debug\GameCaro.PlayerList.resources
+D:\Workspace\C#\Game\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+D:\Workspace\C#\Game\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.Caro.resources
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.DetailSetting.resources
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.MenuGame.resources
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.PlayerList.resources
+C:\Users\CongHau\Downloads\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.Caro.resources
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.DetailSetting.resources
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.MenuGame.resources
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.PlayerList.resources
+C:\Users\pc\Downloads\doAn_LapTrtinhThongMinh_GameCaro\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.Caro.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.DetailSetting.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.MenuGame.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.PlayerList.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\GameCaro.Caro.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\GameCaro.DetailSetting.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\GameCaro.MenuGame.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\GameCaro.PlayerList.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\bin\Debug\agq\GameCaro.resources.dll
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\GameCaro.MenuGame.agq.resources
+D:\Workspace\DoAnC#\BanChinhThuc\GameCaro\GameCaro\obj\Debug\agq\GameCaro.resources.dll
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\bin\Debug\agq\GameCaro.resources.dll
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.Caro.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.DetailSetting.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.MenuGame.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.PlayerList.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.MenuGame.agq.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro (1)\GameCaro\GameCaro\obj\Debug\agq\GameCaro.resources.dll
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro_Nhom08\GameCaro_Nhom08\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro_Nhom08\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\GameCaro_Nhom08\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\bin\Debug\agq\GameCaro.resources.dll
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.Caro.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.DetailSetting.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.MenuGame.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.PlayerList.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.MenuGame.agq.resources
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\agq\GameCaro.resources.dll
+C:\Users\CongHau\Desktop\doAn_LT_ThongMinh_Caro\Nhom08_2001180152_2001180261_2001180088\DA_PTPMUDTM_NHOM_XX\SOURCE\GameCaro_Nhom08\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{72D5ED95-B806-404F-99FD-BD298FA210F0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GameCaro</RootNamespace>
+    <AssemblyName>GameCaro</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BanCo.cs" />
+    <Compile Include="Caro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caro.Designer.cs">
+      <DependentUpon>Caro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CaroChess.cs" />
+    <Compile Include="DetailSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetailSetting.Designer.cs">
+      <DependentUpon>DetailSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ElipseTool.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FileGame.cs" />
+    <Compile Include="MenuGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuGame.Designer.cs">
+      <DependentUpon>MenuGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minimax.cs" />
+    <Compile Include="Mode.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="OCo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PlayerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayerList.Designer.cs">
+      <DependentUpon>PlayerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SocketData.cs" />
+    <Compile Include="SocketManager.cs" />
+    <EmbeddedResource Include="Caro.resx">
+      <DependentUpon>Caro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetailSetting.resx">
+      <DependentUpon>DetailSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuGame.agq.resx">
+      <DependentUpon>MenuGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuGame.resx">
+      <DependentUpon>MenuGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayerList.resx">
+      <DependentUpon>PlayerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xWinNgang.png" />
+    <None Include="Resources\xWinDoc.png" />
+    <None Include="Resources\xWinCheoXuoi.png" />
+    <None Include="Resources\xWinCheoNguoc.png" />
+    <None Include="Resources\oWinNgang.png" />
+    <None Include="Resources\oWinDoc.png" />
+    <None Include="Resources\oWinCheoXuoi.png" />
+    <None Include="Resources\oWinCheoNguoc.png" />
+    <None Include="Resources\chuot.png" />
+    <None Include="Resources\about.png" />
+    <Content Include="Resources\hinh1.png" />
+    <None Include="Resources\unnamed.png" />
+    <None Include="Resources\mnSound.png" />
+    <None Include="Resources\imgBG.jpg" />
+    <None Include="Resources\hinh11.png" />
+    <None Include="Resources\start.png" />
+    <None Include="Resources\x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avtx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\o.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avto.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
